@@ -10,7 +10,7 @@ body {
   label {
   display: block;
   margin: 0.5rem 0; 
-=======
+
 body {
     width: 100%;
     height: 100vh;
@@ -22,5 +22,5 @@ body {
   label {
   display: block;
   margin: 0.5rem 0; 
->>>>>>> 0066ff276ff5f0b523d858349facdd707f0058bb
+
   }
