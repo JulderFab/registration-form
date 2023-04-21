@@ -43,3 +43,7 @@ input, textarea, select {
   margin-right:0;
   margin-bottom: 0;
 }
+
+.inline {
+  width: unset;  /*This line removes the rule that sets all the input elements to width:100%  */
+}
